@@ -1,0 +1,15 @@
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.csproj.AssemblyReference.cache
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.Properties.Resources.resources
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.csproj.GenerateResource.cache
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.csproj.CoreCompileInputs.cache
+D:\C#\Purchase_Order\Purchase_Order\bin\Debug\Purchase_Order.exe.config
+D:\C#\Purchase_Order\Purchase_Order\bin\Debug\Purchase_Order.exe
+D:\C#\Purchase_Order\Purchase_Order\bin\Debug\Purchase_Order.pdb
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.exe
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.pdb
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.Place_Odrer_Form.resources
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.Customers_Form.resources
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.Index_Form.resources
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.Vendor_Form.resources
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.Items_Form.resources
+D:\C#\Purchase_Order\Purchase_Order\obj\Debug\Purchase_Order.Units_Form.resources
